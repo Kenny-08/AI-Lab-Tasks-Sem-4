@@ -1,0 +1,5 @@
+Accuracy:  90.2%
+Validation Accuracy : 90%
+
+Loss:  1.5984609127044678
+Accuracy:  0.9008281826972961
