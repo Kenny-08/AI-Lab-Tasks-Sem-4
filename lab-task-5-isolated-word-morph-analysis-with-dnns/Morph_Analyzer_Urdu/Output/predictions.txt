@@ -1,0 +1,5 @@
+Word		Root		POS		Gender		Number		Person		Case		TAM
+!بَراًےمہربانی		باننااممہبا		adj		any		any		UNK		d		UNK
+کچھدیر		کچھدی		n		m		sg		3		d		0
+دیرانتظارکیجیًے		ناننااارکیی		n		m		sg		3		d		0
+
