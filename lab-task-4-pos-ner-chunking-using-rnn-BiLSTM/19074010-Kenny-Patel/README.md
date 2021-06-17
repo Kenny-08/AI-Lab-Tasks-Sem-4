@@ -35,7 +35,7 @@ I iterated through the data, stored first column of each row in X and third colu
 
  - **Plot** : I haved plotted the accuracy of training and testing data at subsequent epochs:
 
-![](/19074010-Kenny-Patel/Chunking/RNN/Result/chunking_rnn.png)
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-4-pos-ner-chunking-using-rnn-BiLSTM/19074010-Kenny-Patel/Chunking/RNN/Result/chunking_rnn.png)
 
 ### Chunking using Bi-LSTM:
 
@@ -50,7 +50,7 @@ I iterated through the data, stored first column of each row in X and third colu
 
  - **Plot** : I haved plotted the accuracy of training and testing data at subsequent epochs:
 
-![](/19074010-Kenny-Patel/Chunking/Bi-LSTM/Results/plot.png)
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-4-pos-ner-chunking-using-rnn-BiLSTM/19074010-Kenny-Patel/Chunking/Bi-LSTM/Results/plot.png)
 
  
 ## POS Tagging
@@ -91,7 +91,7 @@ I iterated through the data, stored first column of each row in X and second col
 
  - **Plot** : I haved plotted the accuracy of training and testing data at subsequent epochs:
 
-![](/19074010-Kenny-Patel/POS_tagging/RNN/Results/plot.png)
+![](POS_tagging/RNN/Results/plot.png)
 
 ### POS-tagging using Bi-LSTM:
 
@@ -106,7 +106,7 @@ I iterated through the data, stored first column of each row in X and second col
 
  - **Plot** : I haved plotted the accuracy of training and testing data at subsequent epochs:
 
-![](/19074010-Kenny-Patel/POS_tagging/Bi-LSTM/Results/plot.png)
+![](POS_tagging/Bi-LSTM/Results/plot.png)
 
 
 ## Named Entity Recognition (NER)
@@ -143,7 +143,7 @@ I iterated through the data, stored first column of each row in X and last colum
 
  - **Plot** : I haved plotted the accuracy of training and testing data at subsequent epochs:
 
-![](/19074010-Kenny-Patel/NER/RNN/Results/plot.png)
+![](NER/RNN/Results/plot.png)
 
 ### NER using Bi-LSTM:
 
@@ -158,7 +158,7 @@ I iterated through the data, stored first column of each row in X and last colum
 
  - **Plot** : I haved plotted the accuracy of training and testing data at subsequent epochs:
 
-![](/19074010-Kenny-Patel/NER/Bi-LSTM/Results/plot.png)
+![](NER/Bi-LSTM/Results/plot.png)
 
 
 ## Conclusion:
