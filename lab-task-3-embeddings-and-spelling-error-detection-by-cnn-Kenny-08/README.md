@@ -38,13 +38,20 @@ Word2Vec Skipgram folder consists of Data, Model, Jupyter notebook consisting of
 - These word embeddings are visualized in 4 types of plots:
 
 1. PCA(Principal Component Analysis) for complete embedding space
-![](/19074010-Kenny-Patel/Word2Vec_SG/Plots/pca_sg.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_SG/Plots/pca_sg.png)
+
 2. PCA(Principal Component Analysis) for some most similar words
-![](/19074010-Kenny-Patel/Word2Vec_SG/Plots/pca_mostsimilar_sg.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_SG/Plots/pca_mostsimilar_sg.png)
+
 3. t-SNE(T- distributed Stochastic Neighbor Embedding) for complete embedding space
-![](/19074010-Kenny-Patel/Word2Vec_SG/Plots/tsne_sg.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_SG/Plots/tsne_sg.png)
+
 4. t-SNE(T- distributed Stochastic Neighbor Embedding) for some most similar words
-![](/19074010-Kenny-Patel/Word2Vec_SG/Plots/tsne_mostsimilar_sg.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_SG/Plots/tsne_mostsimilar_sg.png)
 
 
 ### CBOW (Continuous Bag Of Words)
@@ -76,13 +83,20 @@ Word2Vec CBOW folder consists of Data, Model, Jupyter notebook consisting of all
 - These word embeddings are visualized in 4 types of plots:
 
 1. PCA(Principal Component Analysis) for complete embedding space
-![](/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/pca_cbow.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/pca_cbow.png)
+
 2. PCA(Principal Component Analysis) for some most similar words
-![](/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/pca_msw_cbow.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/pca_msw_cbow.png)
+
 3. t-SNE(T- distributed Stochastic Neighbor Embedding) for complete embedding space
-![](/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/tsne_cbow.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/tsne_cbow.png)
+
 4. t-SNE(T- distributed Stochastic Neighbor Embedding) for some most similar words
-![](/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/tsne_msw_cbow.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/Word2Vec_CBOW/Plots/tsne_msw_cbow.png)
 
 ## GloVe Embeddings
 
@@ -119,13 +133,20 @@ model.save('model_glove.bin')
  - These word embeddings are visualized in 4 types of plots:
 
 1. PCA(Principal Component Analysis) for complete embedding space
-![](/19074010-Kenny-Patel/GloVe_Embeddings/Plots/pca_glove.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/GloVe_Embeddings/Plots/pca_glove.png)
+
 2. PCA(Principal Component Analysis) for some most similar words
-![](/19074010-Kenny-Patel/GloVe_Embeddings/Plots/pca_most_similar_glove.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/GloVe_Embeddings/Plots/pca_most_similar_glove.png)
+
 3. t-SNE(T- distributed Stochastic Neighbor Embedding) for complete embedding space
-![](/19074010-Kenny-Patel/GloVe_Embeddings/Plots/tsne_glove.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/GloVe_Embeddings/Plots/tsne_glove.png)
+
 4. t-SNE(T- distributed Stochastic Neighbor Embedding) for some most similar words
-![](/19074010-Kenny-Patel/GloVe_Embeddings/Plots/tsne_mostsimilar_glove.png)
+
+![](https://github.com/Kenny-08/AI-Lab-Tasks-Sem-4/blob/main/lab-task-3-embeddings-and-spelling-error-detection-by-cnn-Kenny-08/19074010-Kenny-Patel/GloVe_Embeddings/Plots/tsne_mostsimilar_glove.png)
 
 
 ## Spelling Error Detection with CNN
